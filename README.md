@@ -9,6 +9,6 @@
 ![界面总览](origin.png)
 - 包含检测视频输出，统计信息展示
 
-![检测效果](demo.png)
+![检测效果](demo——mosaic.png)
 ![本地视频检测](sample2.png)
 
